@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace lab_2_mdi
+namespace imageeditor
 {
     public partial class Form2 : Form
     {

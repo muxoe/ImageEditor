@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab_2_mdi
+namespace imageeditor
 {
     public partial class TextInputForm1 : Form
     {

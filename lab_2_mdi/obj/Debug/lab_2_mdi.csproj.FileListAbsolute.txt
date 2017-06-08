@@ -182,3 +182,13 @@ C:\Users\me\Documents\Visual Studio 2015\Projects\lab_11\lab_2_mdi\obj\Debug\lab
 C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\bin\Debug\lab_2_mdi.exe.config
 C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\lab_2_mdi.exe
 C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\lab_2_mdi.pdb
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\bin\Debug\lab_2_mdi.exe
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\bin\Debug\lab_2_mdi.pdb
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\lab_2_mdi.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\imageeditor.Form1.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\imageeditor.Form2.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\imageeditor.lineWidthDialog.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\imageeditor.PictureSizeDialog.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\lab_2_mdi.Properties.Resources.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\imageeditor.TextInputForm1.resources
+C:\Users\me\Desktop\MyDocuments\2016-2017\2-Semestr\OOP\labs\11\lab_11\lab_2_mdi\obj\Debug\lab_2_mdi.csproj.GenerateResource.Cache

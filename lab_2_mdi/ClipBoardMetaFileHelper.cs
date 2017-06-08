@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System;
 
-namespace lab_2_mdi
+namespace imageeditor
 {
     public class ClipboardMetafileHelper
     {

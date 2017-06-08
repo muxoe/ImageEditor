@@ -1,4 +1,4 @@
-﻿namespace lab_2_mdi
+﻿namespace imageeditor
 {
     partial class Form2
     {

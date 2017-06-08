@@ -4,13 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lab_2_mdi
+namespace imageeditor
 {
     static class Program
     {
-
-        // Lab 9
-
         [STAThread]
         static void Main()
         {

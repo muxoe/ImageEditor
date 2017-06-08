@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
-namespace lab_2_mdi
+
+namespace imageeditor
 {
     [Serializable()]
     public abstract class Figure

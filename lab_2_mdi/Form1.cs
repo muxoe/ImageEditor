@@ -12,7 +12,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 using System.IO;
 
-namespace lab_2_mdi
+namespace imageeditor
 {
     public partial class Form1 : Form
     {
