@@ -12,6 +12,8 @@ using System.Runtime.Serialization.Formatters.Binary;
 using System.Runtime.Serialization;
 using System.IO;
 
+using System.Drawing.Imaging;
+
 namespace imageeditor
 {
     public partial class Form1 : Form
@@ -442,39 +444,17 @@ namespace imageeditor
         // Copy
         private void copyToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //string str1 = "asdf";
-            //Clipboard.SetDataObject(str1, true);
-            Form2 activeForm = (Form2)ActiveMdiChild;
-            List<Figure> listSelObj = new List<Figure>();
+            Form2 f = (Form2)ActiveMdiChild;
+            Graphics g = f.bufferedGraphics.Graphics;
+            IntPtr dc = g.GetHdc();
 
+            Metafile mf = new Metafile(dc, EmfType.EmfOnly);
 
-            for (int i = 1; i < activeForm.listFigure.Count; i++)
-            {
-                if (activeForm.listFigure[i].isSelected)
-                {
-                    listSelObj.Add(activeForm.listFigure[i]);
-                }
-            }
-
-            
-            
-            // IDataObject dataObj1 = null;
-            DataObject dataObj1 = new DataObject();
-
-            dataObj1.SetData("my_application_format1", listSelObj);
-            dataObj1.SetData("my_application_format2", listSelObj);
-
-            Clipboard.SetDataObject(dataObj1, true);
         }
 
         // Paste
         private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            IDataObject obj1 = Clipboard.GetDataObject();
-            // Console.WriteLine(obj1.GetDataPresent(typeof(string)));
-            //string str1 = (string)obj1.GetData(typeof(string));
-            //Console.WriteLine(str1);
-
 
         }
 
